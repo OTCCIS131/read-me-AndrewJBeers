@@ -1,6 +1,6 @@
 # readme
 
-- My Name:
-- My Date of Birth:
-- My Computer of Choice:
-- My Favorite Movie:
+- My Name: Andrew Beers
+- My Date of Birth: 10/12/1989
+- My Computer of Choice: PC
+- My Favorite Movie: Kung Pow!
